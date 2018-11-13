@@ -1,0 +1,41 @@
+bloomberg bbc:0.14040343695839788
+
+cnn wallstreetjournal:0.3755991725631676
+
+bloomberg foxnews:0.4624660855651477
+
+cnn bloomberg:0.39547798672405526
+
+bbc wallstreetjournal:0.612943640971399
+
+cnn NBC:0.25670526915196357
+
+foxnews NBC:0.2375680347414312
+
+nytimes foxnews:0.4675523593628405
+
+bloomberg NBC:0.14173707963892918
+
+cnn nytimes:0.3883362175356071
+
+NBC bbc:0.337154821711799
+
+bloomberg wallstreetjournal:0.1728422954801753
+
+bloomberg nytimes:0.8917395542769455
+
+nytimes wallstreetjournal:0.20009504970970454
+
+cnn foxnews:0.4474571807019751
+
+cnn bbc:0.32650850661206265
+
+nytimes NBC:0.16206091856473684
+
+foxnews bbc:0.4050917247247618
+
+nytimes bbc:0.15180622836435662
+
+NBC wallstreetjournal:0.3453891842952267
+
+foxnews wallstreetjournal:0.4885930604039562

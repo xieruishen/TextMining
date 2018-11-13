@@ -1,0 +1,41 @@
+guncontrol Resist:0.3201685611822344
+
+blacklivesmatter 2ndamendment:0.38008933798808797
+
+NotMyPresident Resist:0.7329858937607259
+
+blacklivesmatter MakeAmericaGreatAgain:0.28042319678254074
+
+MakeAmericaGreatAgain NotMyPresident:0.10124777505402911
+
+NotMyPresident 2ndamendment:0.13790082553047928
+
+MakeAmericaGreatAgain Resist:0.23135218542319452
+
+blacklivesmatter election2016:0.3624733325981453
+
+election2016 NotMyPresident:0.17954010305360601
+
+guncontrol NotMyPresident:0.16109977782033275
+
+guncontrol 2ndamendment:0.7743638255355111
+
+election2016 MakeAmericaGreatAgain:0.3218457970918303
+
+blacklivesmatter Resist:0.20956566125682557
+
+election2016 Resist:0.3161970807975905
+
+guncontrol MakeAmericaGreatAgain:0.42991982808048473
+
+election2016 2ndamendment:0.5497005562862676
+
+guncontrol blacklivesmatter:0.47312231310054564
+
+2ndamendment Resist:0.28810196247675307
+
+MakeAmericaGreatAgain 2ndamendment:0.41345799990007515
+
+blacklivesmatter NotMyPresident:0.09032253709063284
+
+guncontrol election2016:0.60580305631276

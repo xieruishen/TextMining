@@ -1,0 +1,182 @@
+lady_susan_JA.txt HuckFinn_MT.txt:0.8196684552860158	
+
+emma_JA.txt HuckFinn_MT.txt:0.8687169895404927	
+
+pride_prejudice_JA.txt gatsby_FSF.txt:0.9145639044570433	
+
+pride_prejudice_JA.txt Life_On_The_Mississippi_MT.txt:0.8985616912649601	
+
+pride_prejudice_JA.txt A_Christmas_Carol_CD.txt:0.9059696358333751	
+
+Hard_Times_CD.txt Sherlock_ACD.txt:0.9641104164694042	
+
+Hard_Times_CD.txt Life_On_The_Mississippi_MT.txt:0.9483291026880002	
+
+lady_susan_JA.txt Sherlock_ACD.txt:0.9062651848992231	
+
+Hard_Times_CD.txt HuckFinn_MT.txt:0.9071754963095379	
+
+Oliver_Twist_CD.txt TomSawyer_MT.txt:0.9666729156844904	
+
+pride_prejudice_JA.txt Innocents_Abroad_MT.txt:0.880991377385027	
+
+A_Tale_of_Two_Cities_CD.txt TomSawyer_MT.txt:0.9671505774180029	
+
+lady_susan_JA.txt Oliver_Twist_CD.txt:0.8391283576489683	
+
+emma_JA.txt Oliver_Twist_CD.txt:0.8924846089928961	
+
+Hard_Times_CD.txt gatsby_FSF.txt:0.9628238420046752	
+
+lady_susan_JA.txt Life_On_The_Mississippi_MT.txt:0.8397049153298566	
+
+sense_sensibility_JA.txt A_Tale_of_Two_Cities_CD.txt:0.9200180687307552	
+
+lady_susan_JA.txt Hard_Times_CD.txt:0.9205033348435723	
+
+A_Tale_of_Two_Cities_CD.txt HuckFinn_MT.txt:0.8960930367050726	
+
+A_Christmas_Carol_CD.txt A_Tale_of_Two_Cities_CD.txt:0.9781661396458038	
+
+lady_susan_JA.txt gatsby_FSF.txt:0.8681561213519559	
+
+Oliver_Twist_CD.txt A_Tale_of_Two_Cities_CD.txt:0.9859684960582532	
+
+HuckFinn_MT.txt Sherlock_ACD.txt:0.904668346685314	
+
+sense_sensibility_JA.txt emma_JA.txt:0.9777462136421915	
+
+emma_JA.txt A_Tale_of_Two_Cities_CD.txt:0.9085792035954372	
+
+emma_JA.txt Innocents_Abroad_MT.txt:0.8627943822499976	
+
+sense_sensibility_JA.txt Innocents_Abroad_MT.txt:0.8761975001450305	
+
+sense_sensibility_JA.txt lady_susan_JA.txt:0.9475571849941724	
+
+lady_susan_JA.txt TomSawyer_MT.txt:0.8143168970186785	
+
+emma_JA.txt gatsby_FSF.txt:0.9069167902018688	
+
+pride_prejudice_JA.txt A_Tale_of_Two_Cities_CD.txt:0.9299162595259801	
+
+Life_On_The_Mississippi_MT.txt TomSawyer_MT.txt:0.9705680775087479	
+
+A_Christmas_Carol_CD.txt Hard_Times_CD.txt:0.9563030068608357	
+
+A_Christmas_Carol_CD.txt Sherlock_ACD.txt:0.9520946234709073	
+
+gatsby_FSF.txt Sherlock_ACD.txt:0.9659459973921093	
+
+A_Christmas_Carol_CD.txt TomSawyer_MT.txt:0.9686403323605516	
+
+lady_susan_JA.txt Innocents_Abroad_MT.txt:0.816894909252288	
+
+Life_On_The_Mississippi_MT.txt Sherlock_ACD.txt:0.9586032125253954	
+
+Innocents_Abroad_MT.txt Sherlock_ACD.txt:0.9315772476039449	
+
+pride_prejudice_JA.txt sense_sensibility_JA.txt:0.9869989700891646	
+
+A_Tale_of_Two_Cities_CD.txt Sherlock_ACD.txt:0.9603494756277295	
+
+Oliver_Twist_CD.txt HuckFinn_MT.txt:0.8934338639832721	
+
+sense_sensibility_JA.txt Sherlock_ACD.txt:0.9174701326352024	
+
+sense_sensibility_JA.txt Hard_Times_CD.txt:0.9570731311865502	
+
+A_Christmas_Carol_CD.txt Innocents_Abroad_MT.txt:0.9560261777614147	
+
+Hard_Times_CD.txt Innocents_Abroad_MT.txt:0.9252805702215314	
+
+pride_prejudice_JA.txt Sherlock_ACD.txt:0.9272276351972534	
+
+Hard_Times_CD.txt Oliver_Twist_CD.txt:0.9625146517527198	
+
+A_Tale_of_Two_Cities_CD.txt gatsby_FSF.txt:0.9587337485961629	
+
+Oliver_Twist_CD.txt Innocents_Abroad_MT.txt:0.954826719202604	
+
+HuckFinn_MT.txt TomSawyer_MT.txt:0.9425487458426084	
+
+sense_sensibility_JA.txt A_Christmas_Carol_CD.txt:0.8989688551218786	
+
+pride_prejudice_JA.txt HuckFinn_MT.txt:0.8574462055288454	
+
+A_Christmas_Carol_CD.txt gatsby_FSF.txt:0.9515677628833318	
+
+sense_sensibility_JA.txt gatsby_FSF.txt:0.9084893391758833	
+
+A_Tale_of_Two_Cities_CD.txt Innocents_Abroad_MT.txt:0.9669349830414156	
+
+emma_JA.txt A_Christmas_Carol_CD.txt:0.8922790579464269	
+
+TomSawyer_MT.txt Sherlock_ACD.txt:0.932825998197929	
+
+Innocents_Abroad_MT.txt Life_On_The_Mississippi_MT.txt:0.9863520382541804	
+
+pride_prejudice_JA.txt emma_JA.txt:0.9822700622409055	
+
+lady_susan_JA.txt A_Christmas_Carol_CD.txt:0.8373020306654103	
+
+lady_susan_JA.txt A_Tale_of_Two_Cities_CD.txt:0.8604944957620394	
+
+sense_sensibility_JA.txt HuckFinn_MT.txt:0.8550998768567387	
+
+pride_prejudice_JA.txt TomSawyer_MT.txt:0.8961932684138936	
+
+pride_prejudice_JA.txt lady_susan_JA.txt:0.9494308453286184	
+
+pride_prejudice_JA.txt Oliver_Twist_CD.txt:0.9110806096827688	
+
+Oliver_Twist_CD.txt gatsby_FSF.txt:0.9566018968335729	
+
+A_Tale_of_Two_Cities_CD.txt Life_On_The_Mississippi_MT.txt:0.9782074819151245	
+
+Innocents_Abroad_MT.txt TomSawyer_MT.txt:0.950584302440467	
+
+Hard_Times_CD.txt TomSawyer_MT.txt:0.948189446714007	
+
+A_Christmas_Carol_CD.txt HuckFinn_MT.txt:0.906997624694507	
+
+emma_JA.txt TomSawyer_MT.txt:0.8862775570113983	
+
+A_Christmas_Carol_CD.txt Life_On_The_Mississippi_MT.txt:0.9715671354908648	
+
+emma_JA.txt Hard_Times_CD.txt:0.9545565143236366	
+
+HuckFinn_MT.txt gatsby_FSF.txt:0.9346834702097103	
+
+pride_prejudice_JA.txt Hard_Times_CD.txt:0.9640598767408324	
+
+HuckFinn_MT.txt Innocents_Abroad_MT.txt:0.8915245373215319	
+
+sense_sensibility_JA.txt Life_On_The_Mississippi_MT.txt:0.8933813095054393	
+
+Oliver_Twist_CD.txt Life_On_The_Mississippi_MT.txt:0.9716562010913232	
+
+emma_JA.txt Life_On_The_Mississippi_MT.txt:0.8860633967471175	
+
+Life_On_The_Mississippi_MT.txt gatsby_FSF.txt:0.9602270960056768	
+
+Innocents_Abroad_MT.txt gatsby_FSF.txt:0.929564359556132	
+
+TomSawyer_MT.txt gatsby_FSF.txt:0.9597095047693313	
+
+Oliver_Twist_CD.txt Sherlock_ACD.txt:0.9565108952098369	
+
+lady_susan_JA.txt emma_JA.txt:0.9432339437456035	
+
+HuckFinn_MT.txt Life_On_The_Mississippi_MT.txt:0.9253716842386921	
+
+emma_JA.txt Sherlock_ACD.txt:0.9229051274038163	
+
+sense_sensibility_JA.txt TomSawyer_MT.txt:0.8894091948282443	
+
+Hard_Times_CD.txt A_Tale_of_Two_Cities_CD.txt:0.9702831230513588	
+
+sense_sensibility_JA.txt Oliver_Twist_CD.txt:0.8989648120870061	
+
+A_Christmas_Carol_CD.txt Oliver_Twist_CD.txt:0.9761419008121163	
+
